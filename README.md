@@ -7,7 +7,7 @@ Get latest tech news
 -----------------------------------
 - Up-to date tech news
 - short summary about each tech news
-- swipe left more info
+- swipe left for more info
   
 -----
 ### 📷 Screen Grabs
