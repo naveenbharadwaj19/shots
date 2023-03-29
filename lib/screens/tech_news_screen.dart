@@ -94,7 +94,7 @@ class _Title extends GetWidget<NewsController> {
       margin: const EdgeInsets.all(8),
       child: Text(
         controller.articles[index]["title"] as String,
-        maxLines: 3,
+        maxLines: 4,
         overflow: TextOverflow.ellipsis,
         textAlign: TextAlign.center,
         style: Theme.of(context).textTheme.headlineLarge!.copyWith(
